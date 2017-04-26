@@ -167,7 +167,7 @@ return [
     'Log_User_Access'                  => 'Log User Access',
     'SUPERADMIN'                       => 'SUPERADMIN',
 
-    'click_here'                       => 'Click here',
+    'click_here'                       => 'Cliquez ici',
 
     /*
     * this is for html direction to use in html and css classes like :
@@ -178,13 +178,13 @@ return [
     'right'                            => 'right',
     'left'                             => 'left',
 
-    'all_rights_reserved'              => 'All Rights Reserved',
+    'all_rights_reserved'              => 'Tous droits réservés',
     'copyright'                        => 'Copyright',
     'powered_by'                       => 'Powered by',
 
-    'notification_you_have'            => 'You Have',
+    'notification_you_have'            => 'Vous avez',
     'notification_notification'        => 'Notifications',
-    'notification_new'                 => 'You have a new notification !',
+    'notification_new'                 => 'Vous avez une nouvelle notification !',
 
     'login_register_style'             => 'Login Register Style',
     'email_setting'                    => 'Email Setting',
@@ -215,34 +215,34 @@ return [
     'filter_to'                        => 'to',
 
     // confirmation
-    'confirmation_yes'                 => 'Yes!',
-    'confirmation_no'                  => 'No',
+    'confirmation_yes'                 => 'Oui!',
+    'confirmation_no'                  => 'Non',
 
     //filemanager
-    'chose_an_image'                   => 'Choose an image ',
-    'chose_an_file'                    => 'Choose an file ',
+    'chose_an_image'                   => 'Sélectionner une image ',
+    'chose_an_file'                    => 'Sélectionner un fichier ',
 
     //action confirmation
     'confirmation_title'               => 'Confirmation',
-    'confirmation_text'                => 'Are you sure want to do this action?',
-    'confirmButtonText'                => 'Yes',
+    'confirmation_text'                => 'Êtes-vous sûr de vouloir effectuer cette action ?',
+    'confirmButtonText'                => 'Oui',
 
 
     // privilege
-    'privileges_name'                  =>'Privilege Name',
+    'privileges_name'                  =>'Nom du privilège',
     'privileges_super_admin'           =>'Super Admin',
-    'privileges_standart_user'         =>'Standart user',
+    'privileges_standart_user'         =>'Utilisateur standard',
     'privileges_ID'                    =>'ID',
-    'set_as_superadmin'                =>'Set as Superadmin',
+    'set_as_superadmin'                =>'Définir comme Superadmin',
     'chose_theme_color_select'         =>'** Choose Backend Theme Color',
-    'chose_theme_color'                =>' Theme Color',
+    'chose_theme_color'                =>' Couleur du thème',
     'privileges_configuration'         =>'Privileges Configuration',
-    'privileges_module_list_no'        =>'No.',
-    'privileges_module_list_mod_names' =>'Module\'s Name',
-    'privileges_module_list_view'      =>'View',
-    'privileges_module_list_create'    =>'Create',
-    'privileges_module_list_read'      =>'Read',
-    'privileges_module_list_update'    =>'Update',
-    'privileges_module_list_delete'    =>'Delete',
+    'privileges_module_list_no'        =>'Non.',
+    'privileges_module_list_mod_names' =>'Nom du/des Module\'s',
+    'privileges_module_list_view'      =>'Voir',
+    'privileges_module_list_create'    =>'Créer',
+    'privileges_module_list_read'      =>'Lire',
+    'privileges_module_list_update'    =>'Modifier',
+    'privileges_module_list_delete'    =>'Supprimer',
 
 ];
